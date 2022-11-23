@@ -1,4 +1,120 @@
-iv#line1 > a
+div#zindex > div
+{
+ width: 500px;
+ padding-left: 20px;
+ 
+ margin-left: 20px;
+ position: absolute;
+}
+
+#box1
+{
+ float: left; top: 50px;
+ color:rgb(240, 231, 231);
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#box2
+{
+ float: left; top: 80px;
+ color: rgb(250, 248, 248);
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#box3
+{
+ float: left; top: 60px;left: 900px;margin-top: 20px;
+ color: rgb(11, 33, 17);
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#box4
+{
+ margin-left: -24px;
+}
+#box5{float: left; padding-left: 110px;
+ margin-top: -80px;}
+#box6
+{
+ margin-left:-10px; 
+}
+#box7
+{
+ float:left; padding-left: 65px; margin-top: -68px;
+}
+
+#box11
+{
+ left: 1130px;
+ border-radius: 15px;
+
+}
+#box12
+{
+ padding-left: 9px;
+ margin: 5px 20px;
+ color: rgba(188, 220, 105, 0.887);
+ 
+}
+#box13
+{
+ padding-left: 950px;
+ margin-top: -35px;
+}
+#box10
+{
+ padding-top: 20px;
+}
+#zindex
+{
+border-right: 8px solid green;
+border-top: 3px solid green;
+border-left: 4px solid green;
+border-bottom: 2px solid green;
+margin-left: -4px;
+
+}
+nav
+{
+    padding: 10px;
+    background-color:rgb(182, 33, 33);
+    position: sticky;
+    width: 1556px;
+ 
+}
+nav > a
+{
+    text-decoration: none;
+    color: gold;
+    margin: 0 32px;
+    padding: 5px 25px;
+   /* border: 1px solid black; */
+    font-family: monospace;
+    font-size: 14pt;
+    top: 5px;
+}
+nav >a:hover
+{
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+
+}
+div#line1 > a
+    {
+        position: absolute;
+        right: 0px;
+        top: -12px;
+        padding: 2px 0px 2px;
+        text-decoration: none;
+        background-color: black;
+        border-radius: 7px;
+        color: gold;
+    }
+    div > a
+    {
+        padding: 3px 20px;
+        color: black
+        
+    }
+div#line1 > a
 {
     position: absolute;
     right: 0px;
