@@ -1,0 +1,56 @@
+iv#line1 > a
+{
+    position: absolute;
+    right: 0px;
+    top: -10px;
+    margin-right: -5px;
+    padding: 0px 0px 2px;
+    text-decoration: none;
+    background-color: black;
+    border-radius: 7px;
+    color: gold;
+    
+    
+}
+nav
+{
+    padding-top: 10px; 
+    margin-top: 40px;
+}
+#box10 li
+{
+    list-style: url(image/link1.jpg)
+}
+li
+{
+   list-style: url(image/ABsmall\ logo.jpg);
+  
+}
+div#line1 > a
+{
+    position: absolute;
+    right: 0px;
+    top: -10px;
+    margin-right: -5px;
+    padding: 0px 0px 2px;
+    text-decoration: none;
+    background-color: black;
+    border-radius: 7px;
+    color: gold;
+    
+    
+}
+nav
+{
+    padding-top: 10px; 
+    margin-top: 40px;
+}
+#box10 li
+{
+    list-style: url(image/link1.jpg)
+}
+li
+{
+   list-style: url(image/ABsmall\ logo.jpg);
+  
+}
